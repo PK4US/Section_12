@@ -1,0 +1,7 @@
+include ':Lesson_3'
+include ':Lesson_2'
+include ':Lesson_1'
+include ':MyApp_3'
+include ':MyApp_2'
+include ':MyApp_1'
+rootProject.name = "Section_12"
